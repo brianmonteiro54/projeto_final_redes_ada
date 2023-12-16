@@ -7,6 +7,7 @@ Este repositório contém o projeto final do curso de redes, realizado no Cisco 
 - Criar 4 redes no Cisco Packet Tracer usando a faixa de endereços IP 192.168.20.0.
 - Estabelecer comunicação entre as redes.
 - Seguir as configurações específicas para cada rede.
+![image](https://github.com/brianmonteiro54/projeto_final_redes_ada/assets/27598659/b663d18e-0c3d-460a-80d6-003bd5f3210d)
 
 ## Configuração das Redes
 
